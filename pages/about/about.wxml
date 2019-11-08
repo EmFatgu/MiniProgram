@@ -1,3 +1,4 @@
 <!--pages/about/about.wxml-->
 <text class="title">虎云文档</text>
 <button size="mini" >print</button>
+<view>1.zhishidian</view>
